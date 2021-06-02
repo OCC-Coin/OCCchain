@@ -1,16 +1,7 @@
-# Huobi ECO Chain – Heco
 
-English | [简体中文](README_CN.md)
-
-
-## Introduction to the Huobi Open Platform
-The Huobi Open Platform is a unified infrastructure platform based on the technical, traffic and ecological resources of the Huobi Group, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. In December 2020, the first product of the Huobi Open Platform, the Huobi ECO Chain, also known as Heco, officially launched its "Tinder" phase. In addition, Huobi Open Platform will launch DEX and other blockchain infrastructures based on Layer 2. The Huobi Open Platform will provide global developers with series of diverse innovative facilities and services.
-
-## Introduction to Huobi ECO Chain
-Huobi ECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the Huobi Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
-To help developers’ evolvement at every stage 
+To help developers’ evolvement at every stag
 
 ## Vision
 Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
