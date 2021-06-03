@@ -111,13 +111,6 @@ Huobi Global will strongly support the development of Heco ecosystem:
 - Huobi Group will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
 
-## Interact with Us on Social Media
-- Facebook：Huobi Eco Chain
-- Twitter：Huobi_EcoChain
-- Telegram： HuobiEcoChain
-- Weibo：火币生态链Heco
-- Wechat Offical Account：Huobi Eco Heco
-
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Heco for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
